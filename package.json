@@ -1,0 +1,23 @@
+{
+  "name": "customerApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolutionharsh/customerApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evolutionharsh/customerApi/issues"
+  },
+  "homepage": "https://github.com/evolutionharsh/customerApi#readme",
+  "dependencies": {
+    "mongoose": "^5.3.4"
+  }
+}
