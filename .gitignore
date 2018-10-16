@@ -1,4 +1,4 @@
-*.i
+cd ..*.i
 *.ii
 *.gpu
 *.ptx
